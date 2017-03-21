@@ -1,4 +1,4 @@
-I present two solutions here, the first one being a little more simple to understand as well as implement than the second one.
+//I present two solutions here, the first one being a little more simple to understand as well as implement than the second one.
 
 // 1st  
 
