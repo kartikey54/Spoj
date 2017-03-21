@@ -1,2 +1,3 @@
 # Spoj
-Solutions to problems that taught me something new :)
+
+Solutions to problems that taught me something new.
